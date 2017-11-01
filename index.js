@@ -1,1 +1,3 @@
-recipes = {}
+recipes = {
+  pancake: 'milk'
+}

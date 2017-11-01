@@ -1,3 +1,2 @@
 var recipes = {
-  pancake: 'milk'
 }
